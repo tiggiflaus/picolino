@@ -51,5 +51,5 @@ For international users, including those in the United States:
 If you have any questions or inquiries regarding this Privacy Policy or the security architecture of PiColino, please open an issue in the official repository or contact us:
 
 - **Repository:** [https://github.com/tiggiflaus/picolino](https://github.com/tiggiflaus/picolino)
-- **Maintainer:** PiColino Open Source Project (`tiggiflaus`)
-- **Email Contact:** `support@picolino.app`
+- **Maintainer:** Nima Ferdinand Kiaei-Lochte (`tiggiflaus`)
+- **Email Contact:** `tiggiflaus@outlook.com`
