@@ -14,9 +14,10 @@ The app is currently undergoing the critical 14-day closed testing phase for the
 
 Your invaluable support means the world to us and will be handsomely rewarded with exclusive, game-changing features dropping right after launch — let’s build something amazing together! ✨
 
-> **⚠️ Important requirement by Google (not by the developer!):**
->
->  Google strictly requires that all testers keep the app installed <strong>continuously for at least 14 days</strong>. Please do <strong>not uninstall the app after your first test</strong>. Open it occasionally to check if everything works properly and make sure to install updates/bugfixes if pushed during this period.
+<div style="background-color: #fff3cd; border-left: 5px solid #ffc107; padding: 15px; border-radius: 4px; color: #856404; margin: 15px 0;">
+  <strong>⚠️ Important requirement by Google (not by the developer!):</strong><br />
+  Google strictly requires that all testers keep the app installed <strong>continuously for at least 14 days</strong>. Please do <strong>not uninstall the app after your first test</strong>. Open it occasionally to check if everything works properly and make sure to install updates/bugfixes if pushed during this period.
+</div>
 
 ---
 
