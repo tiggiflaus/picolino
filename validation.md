@@ -20,15 +20,15 @@ Your invaluable support means the world to us and will be handsomely rewarded wi
 ### 📋 Join in 3 simple steps:
 
 1. **Join the Google Group:**  
-   👉 [Join the Google Group](https://groups.google.com/g/app-vip-access) *(Required to get Play Store access)*
+   👉 <a href="https://groups.google.com/g/app-vip-access" target="_blank" rel="noopener noreferrer">Join the Google Group</a> *(Required to get Play Store access)*
 
 2. **Opt-in as a tester on the Play Store:**  
    ***TBD***
-   🌐 [Complete Web Opt-in](https://play.google.com/apps/testing/com.yourpackage.picolino)
+   🌐 <a href="https://play.google.com/apps/testing/com.yourpackage.picolino" target="_blank" rel="noopener noreferrer">Complete Web Opt-in</a>
 
 3. **Download the app:**  
    ***TBD***
-   📱 [Download Picolino on the Play Store](https://play.google.com/store/apps/details?id=com.yourpackage.picolino)
+   📱 <a href="https://play.google.com/store/apps/details?id=com.yourpackage.picolino" target="_blank" rel="noopener noreferrer">Download Picolino on the Play Store</a>
 
 ---
 
