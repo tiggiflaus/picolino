@@ -1,5 +1,3 @@
-# 🚀 Picolino
-
 <img src="https://raw.githubusercontent.com/tiggiflaus/picolino/refs/heads/main/assets/FeatureGraphicV2.jpeg" alt="Picolino Banner" width="50%" />
 
 <br>
