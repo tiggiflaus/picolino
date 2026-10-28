@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/tiggiflaus/picolino/refs/heads/main/assets/FeatureGraphicV2.jpeg" alt="Picolino Banner" width="50%" />
 
-<br>
-
 > **Picolino** adds the missing physical buttons to your Raspberry Pi! Enjoy effortless, one-tap mobile control to reboot, shut down, and instantly read your device's unique EEPROM serial number — without complex logins, terminal sessions, or bloated, unhandy apps.
 
 ---
